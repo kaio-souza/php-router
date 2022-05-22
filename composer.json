@@ -1,0 +1,18 @@
+{
+    "name": "kaio-souza/php-router",
+    "description": "A simple PHP router",
+    "type": "n",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KaioSouza\\PhpRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaio Souza",
+            "email": "profkaio@outlook.com"
+        }
+    ],
+    "require": {}
+}
